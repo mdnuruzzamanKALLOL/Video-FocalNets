@@ -1,0 +1,11 @@
+decord==0.6.0
+einops==0.4.1
+imgaug==0.4.0
+numpy==1.22.3
+pandas==1.4.2
+Pillow==10.0.1
+PyYAML==6.0
+termcolor==2.3.0
+tensorflow==2.8.0
+tensorflow-datasets==4.5.2
+tf-models-official==2.8.0
