@@ -1,4 +1,4 @@
-# Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition [ICCV 2023] 
+# Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition 
 
 
 > **Abstract:**
